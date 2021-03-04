@@ -1,0 +1,13 @@
+C:\Users\glebo\source\repos\StackGenericsPractice\StackGenericsPractice\bin\Debug\netcoreapp3.1\StackGenericsPractice.exe
+C:\Users\glebo\source\repos\StackGenericsPractice\StackGenericsPractice\bin\Debug\netcoreapp3.1\StackGenericsPractice.deps.json
+C:\Users\glebo\source\repos\StackGenericsPractice\StackGenericsPractice\bin\Debug\netcoreapp3.1\StackGenericsPractice.runtimeconfig.json
+C:\Users\glebo\source\repos\StackGenericsPractice\StackGenericsPractice\bin\Debug\netcoreapp3.1\StackGenericsPractice.runtimeconfig.dev.json
+C:\Users\glebo\source\repos\StackGenericsPractice\StackGenericsPractice\bin\Debug\netcoreapp3.1\StackGenericsPractice.dll
+C:\Users\glebo\source\repos\StackGenericsPractice\StackGenericsPractice\bin\Debug\netcoreapp3.1\StackGenericsPractice.pdb
+C:\Users\glebo\source\repos\StackGenericsPractice\StackGenericsPractice\obj\Debug\netcoreapp3.1\StackGenericsPractice.csprojAssemblyReference.cache
+C:\Users\glebo\source\repos\StackGenericsPractice\StackGenericsPractice\obj\Debug\netcoreapp3.1\StackGenericsPractice.AssemblyInfoInputs.cache
+C:\Users\glebo\source\repos\StackGenericsPractice\StackGenericsPractice\obj\Debug\netcoreapp3.1\StackGenericsPractice.AssemblyInfo.cs
+C:\Users\glebo\source\repos\StackGenericsPractice\StackGenericsPractice\obj\Debug\netcoreapp3.1\StackGenericsPractice.csproj.CoreCompileInputs.cache
+C:\Users\glebo\source\repos\StackGenericsPractice\StackGenericsPractice\obj\Debug\netcoreapp3.1\StackGenericsPractice.dll
+C:\Users\glebo\source\repos\StackGenericsPractice\StackGenericsPractice\obj\Debug\netcoreapp3.1\StackGenericsPractice.pdb
+C:\Users\glebo\source\repos\StackGenericsPractice\StackGenericsPractice\obj\Debug\netcoreapp3.1\StackGenericsPractice.genruntimeconfig.cache
