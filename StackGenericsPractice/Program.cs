@@ -19,6 +19,22 @@ namespace StackGenericsPractice
             }
 
             Console.WriteLine(values);
+
+
+            Persone people1 = new Persone("John", 93000);
+            Persone people2 = new Persone("Fill", 74000);
+            Persone people3 = new Persone("Bill Gates", 1400000);
+
+            Stack<Persone> people = new Stack<Persone>();
+            people.Add(people1);
+            people.Add(people2);
+            people.Add(people3);
+
+            foreach (Persone a in people)
+            {
+                Console.WriteLine(a);
+            }
+
             Console.ReadLine();
         }
     }
